@@ -1,0 +1,8 @@
+@'
+**/node_modules/
+**/.env
+**/.expo/
+dist/
+web-build/
+*.log
+'@ | Set-Content -Encoding utf8 .gitignore

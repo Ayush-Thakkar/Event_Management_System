@@ -1,0 +1,13 @@
+{
+  "expo": {
+    "name": "EMS",
+    "slug": "ems-events",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "userInterfaceStyle": "light",
+    "splash": {
+      "backgroundColor": "#f5f6f8"
+    },
+    "assetBundlePatterns": ["**/*"]
+  }
+}
